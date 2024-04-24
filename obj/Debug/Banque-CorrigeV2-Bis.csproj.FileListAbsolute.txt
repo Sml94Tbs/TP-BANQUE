@@ -1,0 +1,10 @@
+D:\BTS SIO1\C#\Banque-CorrigeV2-Bis - Serialisation - Heritage\bin\Debug\Banque-CorrigeV2-Bis.exe.config
+D:\BTS SIO1\C#\Banque-CorrigeV2-Bis - Serialisation - Heritage\bin\Debug\Banque-CorrigeV2-Bis.exe
+D:\BTS SIO1\C#\Banque-CorrigeV2-Bis - Serialisation - Heritage\obj\Debug\Banque-CorrigeV2-Bis.csproj.AssemblyReference.cache
+D:\BTS SIO1\C#\Banque-CorrigeV2-Bis - Serialisation - Heritage\obj\Debug\Banque_CorrigeV2_Bis.Properties.Resources.resources
+D:\BTS SIO1\C#\Banque-CorrigeV2-Bis - Serialisation - Heritage\obj\Debug\Banque_CorrigeV2_Bis.FormClient.resources
+D:\BTS SIO1\C#\Banque-CorrigeV2-Bis - Serialisation - Heritage\obj\Debug\Banque_CorrigeV2_Bis.Gestion.resources
+D:\BTS SIO1\C#\Banque-CorrigeV2-Bis - Serialisation - Heritage\obj\Debug\Banque-CorrigeV2-Bis.csproj.GenerateResource.cache
+D:\BTS SIO1\C#\Banque-CorrigeV2-Bis - Serialisation - Heritage\obj\Debug\Banque-CorrigeV2-Bis.csproj.CoreCompileInputs.cache
+D:\BTS SIO1\C#\Banque-CorrigeV2-Bis - Serialisation - Heritage\obj\Debug\Banque-CorrigeV2-Bis.exe
+D:\BTS SIO1\C#\Banque-CorrigeV2-Bis - Serialisation - Heritage\obj\Debug\Banque-CorrigeV2-Bis.pdb
